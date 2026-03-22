@@ -117,7 +117,7 @@
 		"media/dark.ogg",
 		"media/mus_zz_mus_zz_the_slaughter_will_continue.ogg",
 		"media/3.ogg",
-		"media/mus_zz_the_slaughter_will_continue.ogg",
+		"media/mus_zz_not_a_slacker_anymore.ogg",
 		"media/gaster_menu.ogg",
 		"icon-16.png",
 		"icon-32.png",
